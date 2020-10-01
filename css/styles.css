@@ -24,6 +24,11 @@ p{
   line-height: 2;
 }
 
+strong{
+  /* color: #ffd5cd; */
+  color: #a6f6f1;
+}
+
 .download-button{
   margin: 50px 10px 0px;
 }
