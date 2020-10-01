@@ -117,6 +117,13 @@ p{
   border-radius: 100%;
   margin: 20px;
 }
+.testimonials-image-active{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: 20px;
+}
+
 /* Press */
 #press{
   background-color: #ef8172;
